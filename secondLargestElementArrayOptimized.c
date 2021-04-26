@@ -27,3 +27,4 @@ int main() {
     else
         printf("Second Largest: %d\n", lrg2);
 }
+//O(n) one traversal of the array
